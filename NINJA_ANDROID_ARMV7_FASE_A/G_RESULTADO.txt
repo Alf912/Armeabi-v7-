@@ -1,0 +1,7 @@
+Preparación estática: PASS
+Build real: COMPLETADO_TODAS_FASES
+Compilación: EXITOSA (15 MB)
+Arquitectura: armeabi-v7a (32-bits) VERIFICADO
+Fases integradas: A→G en un único APK
+Ubicación: app/build/outputs/apk/debug/app-debug.apk
+Certificación ARMv7: LISTA PARA DISPOSITIVO
